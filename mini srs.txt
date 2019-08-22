@@ -1,0 +1,6 @@
+min exp mgmt sys 1.5/ionic 1/py flask || java dropWizard
+
+-	registration of customer and login
+-	can register as comp also (switch account to indivudual too)
+- 	can add expense
+-	
