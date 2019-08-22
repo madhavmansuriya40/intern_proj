@@ -1,6 +1,14 @@
 min exp mgmt sys 1.5/ionic 1/py flask || java dropWizard
 
--	registration of customer and login
--	can register as comp also (switch account to indivudual too)
-- 	can add expense
--	
+	-	registration of customer and login
+	-	can register as comp also (switch account to indivudual too)
+	- 	can add expense (single | bulk)	
+	-	added expense can be approved by the acc team of company
+	-	
+
+
+stack holders
+	-	company acc team
+	- 	company admin
+	-	company employee
+	-	super admin (developer org. of software)
