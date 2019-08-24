@@ -1,14 +1,27 @@
 min exp mgmt sys 1.5/ionic 1/py flask || java dropWizard
 
-	-	registration of customer and login
-	-	can register as comp also (switch account to indivudual too)
-	- 	can add expense (single | bulk)	
-	-	added expense can be approved by the acc team of company
-	-	
+-----	Expense mgmt system		-------
+
+*******		requirements	*******
+	-	registration of org (login) > register company > approv compny
+	-	admin can assign roles to employee of company
+	-	admin can add employee (single | bulk)
+	-	admin can add/remove/update employe(details)
+	- 	employee can add expense (single | bulk) 
+	-	employee can report the expense after adding expense
+	-	employee can draft the expense if required 
+	-	drafted expense must be verifed by the acc-team and then can be processed with further 
+	-	employee can see payments refunded by the company	
+	-	employee's added expense can be approved by the acc team of company
+	-	employee can be re-paid in the first week of next month by the payee, only valid fyles
+	-	employee can add milage (charge of travelling) when out for companys work
+	-	employee can fyle denim (daily milage)
+	-	company/employee anual/monthly report
 
 
-stack holders
-	-	company acc team
-	- 	company admin
-	-	company employee
-	-	super admin (developer org. of software)
+*******		stack holders		*******
+	-	company acc team (role)
+	- 	company admin (role)
+	-	company employee (fyler)
+	-	company payee (role)
+	-	super admin (developer org. of software)s	
